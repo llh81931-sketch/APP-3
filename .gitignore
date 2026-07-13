@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# NDK build outputs
+libs/
+obj/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Android
+*.apk
+*.aab
+*.keystore
